@@ -6,7 +6,7 @@
 
 ### Finding the signal in AI worth paying attention to.
 
-Ann and George are software engineers who tinker, learn, and ship. 
+[Ann](https://annjose.com/) and [George](https://georgeck.me/) are software engineers who tinker, learn, and ship. 
 We explore the intersection of AI, software engineering, and product development - moving past the hype to build real applications and durable mental models.
 
 ---
