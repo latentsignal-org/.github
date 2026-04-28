@@ -1,7 +1,7 @@
 # Latent Signal - Decode the signal in AI
 
 <p align="center">
-  <img src="https://latentsignal.org/images/og-image.png" alt="Latent Signal Logo" width="600" />
+  <img src="https://latentsignal.org/images/og-image.webp" alt="Latent Signal Logo" width="600" />
 </p>
 
 ### Finding the signal in AI worth paying attention to.
